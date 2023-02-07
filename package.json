@@ -1,0 +1,26 @@
+{
+  "name": "gt-bc-hw-10",
+  "version": "1.0.0",
+  "description": "node command line app to generate an html with a team profile",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "jest": "^29.4.1"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chazillaa/GT-BC-HW-10.git"
+  },
+  "author": "Isaac Cha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chazillaa/GT-BC-HW-10/issues"
+  },
+  "homepage": "https://github.com/chazillaa/GT-BC-HW-10#readme"
+}
