@@ -15,7 +15,7 @@
   To run this application the user must run "npm init" command to to set up a package.json file and the "npm i inquirer" to install the Inquirer package into the package.json file, as well as "npm i jest" for the tests. Once that has been done the user can run the application in the terminal by using the command "node index.js"  
   &nbsp;  
   ## Usage:
-  Once "node index.js" is ran, the application can be used to create a team profile HTML page that will display a description of each member of a team for a given project. https://drive.google.com/file/d/1pwzEaQxjoJPT95woaqeYfxtKigNBveoy/view
+  Once "node index.js" is ran, the application can be used to create a team profile HTML page that will display a description of each member of a team for a given project. https://drive.google.com/file/d/1SAksZrQNtsSY9E2coCSgo5a0iBBGhuMS/view
   &nbsp;  
   ## Contributing:
   Others can contribute to this project by further expanding on information for each team member, as well as adding potential new roles that a team may need. 
